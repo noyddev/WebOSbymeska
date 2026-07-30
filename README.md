@@ -1,6 +1,5 @@
 ## WebOs
-
-This is my first project regarding a WebOS, I built a macOS-inspired desktop environment that runs entirely in the browser. 
+ I built a macOS-inspired desktop environment that runs entirely in the browser. 
 
 ![desktop](media/desktop.png) ![boot](media/boot.png)
 
@@ -42,3 +41,6 @@ For state management, the entire operating system relies on one massive useReduc
 ## AI Declaration
 
 AI helped me to build the initial structure of the WebOs
+ 
+## contact 
+email : mes0ka@proton.me 
